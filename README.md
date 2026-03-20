@@ -1,166 +1,172 @@
 <div align="center">
 
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:112240&height=220&section=header&text=Badis%20Boudjaoui&fontSize=62&fontColor=64ffda&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20%26%20Robotics%20Enthusiast%20%7C%20Future%20ML%20Engineer&descAlignY=58&descSize=17&descColor=8892b0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Badis%20Boudjaoui&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Automation%20Architect&descAlignY=62&descColor=8b949e&descSize=18" />
 
-<!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Hey%2C+je+suis+Badis+%F0%9F%91%8B;Étudiant+en+Ingénierie+%F0%9F%8E%93;Passionné+par+l'IA+%26+le+Deep+Learning+%F0%9F%A7%A0;Arduino+%7C+TensorFlow+%7C+Python+%7C+C;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<br/>
 
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🧠+Building+intelligent+multi-agent+systems;⚙️+Automating+workflows+with+n8n+%26+AI;🎓+Engineering+student+%40+ESTIN%2C+Algeria)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Badis-Boudjaoui&label=Vues+du+profil&color=64ffda&style=for-the-badge&labelColor=0a192f)](https://github.com/Badis-Boudjaoui)
-[![GitHub followers](https://img.shields.io/github/followers/Badis-Boudjaoui?label=Followers&style=for-the-badge&color=64ffda&labelColor=0a192f)](https://github.com/Badis-Boudjaoui?tab=followers)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badis-boudjaoui)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badis-Boudjaoui)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:badisboudjaoui@outlook.com)
+[![Location](https://img.shields.io/badge/Béjaïa%2C_Algeria-🇩🇿-1f2937?style=for-the-badge)](#)
+
+<br/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="52%" valign="top">
+## 🧬 About Me
 
-## 🧑‍💻 À propos de moi
+```python
+class BadisBoudjaoui:
+    def __init__(self):
+        self.name      = "Badis Boudjaoui"
+        self.school    = "ESTIN — Computer Science & Digital Technologies"
+        self.level     = "2nd Year Preparatory Cycle (Bac+2) · 2025/2026"
+        self.roles     = ["AI Engineer 🤖", "Full-Stack Dev 🌐", "Automation Architect ⚙️"]
+        self.languages = ["Kabyle 🌟 (native)", "French 🇫🇷 (fluent)", "English 🇬🇧 (fluent)", "Arabic 🌍 (fluent)", "Japanese 🇯🇵 (intermediate)"]
 
-```yaml
-Nom         : Badis Boudjaoui
-Localisation: Béjaïa, Algérie 🇩🇿
-Études      : Ingénierie 🎓
-Focus       : IA · Deep Learning · Robotique
-Objectif    : ML Engineer 🚀
-Disponible  : Open to opportunities ✅
+    def current_mission(self):
+        return "EstiNova — Centralized AI-ERP for ESTIN 🚀"
+
+    def philosophy(self):
+        return "Build smart. Automate everything. Learn endlessly."
 ```
 
-🔭 Je travaille sur des projets **IA & Deep Learning**  
-🤖 Passionné de **Robotique & Arduino**  
-🌱 En cours : **Backpropagation, TensorFlow, MNIST**  
-🎯 Objectif : Contribuer à l'**IA au service de l'humain**  
-📫 Contact : **badisboudjaoui@outlook.com**  
-🌐 Langues : Kabyle · Français · Anglais · Arabe · 日本語
-
-</td>
-<td width="48%" valign="top">
-
-## 📊 Mes Stats GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Badis-Boudjaoui&show_icons=true&theme=tokyonight&bg_color=0a192f&border_color=64ffda&icon_color=64ffda&title_color=64ffda&text_color=8892b0" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Badis-Boudjaoui&theme=tokyonight&background=0a192f&border=64ffda&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="100%" />
-
-</td>
-</tr>
-</table>
-
 ---
+
+## 🚀 Featured Project — EstiNova
 
 <div align="center">
 
-## 🛠️ Compétences Techniques
+```
+╔══════════════════════════════════════════════════════════╗
+║          EstiNova — The Intelligent ESTIN Assistant      ║
+║         Centralized AI-ERP · RAG · Multi-Agent           ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-### 💻 Langages de Programmation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_NASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+</div>
 
-### 🧠 Intelligence Artificielle & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+> **EstiNova** is an AI-powered ERP solution centralizing administration, teachers and students  
+> of ESTIN into a **single cognitive interface** — orchestrated by n8n, powered by LLM + RAG.
 
-### 🤖 Robotique & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processingfoundation&logoColor=white)
+| 🧩 Component | ⚙️ Technology |
+|:---|:---|
+| 🏗️ Architecture | RAG Multi-Agents · Modular ERP |
+| 🤖 AI Core | LLM + Vector Store + PDF Embeddings |
+| 🔄 Orchestration | n8n + Webhooks + REST API |
+| 🔐 Security | Silent Auth · RBAC · GDPR Compliant |
+| 👑 My Role | **Project Lead & AI Engineer** |
 
-### 🎨 Montage Vidéo & Design
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+---
 
-### 🖥️ Systèmes & Outils
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## 🛠️ Skills
+
+### 💻 Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,bash,arduino&theme=dark&perline=9" />
+</div>
+
+### 🌐 Web & Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express,vite&theme=dark&perline=9" />
+</div>
+
+### 🤖 AI / ML / Automation
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=9" />
+
+  &nbsp;
+
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+  ![RAG](https://img.shields.io/badge/RAG_Architecture-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
+
+### 🧰 Tools & Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,figma,ps,ae&theme=dark&perline=8" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Badis-Boudjaoui&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badis-Boudjaoui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Badis-Boudjaoui&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Badis-Boudjaoui&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00)
 
 </div>
 
 ---
 
+## 💼 Freelance Experience
+
+| 🏷️ | Field | Achievements |
+|:---:|:---|:---|
+| 🌐 | **Web Development** | Full websites delivered (design → deployment) |
+| 🎨 | **Visual Identity** | Logos & branding for multiple companies |
+| ⚙️ | **AI Automation** | n8n workflows + AI Agents deployed for 2 businesses |
+| 🔗 | **API Integration** | REST Webhooks + business process agent integration |
+| 🎬 | **Video Editing** | Creative content (After Effects, CapCut, Alight Motion) |
+
+---
+
+## 🌍 Languages
+
 <div align="center">
 
-## 📈 Langages les plus utilisés
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badis-Boudjaoui&layout=donut-vertical&theme=tokyonight&bg_color=0a192f&border_color=64ffda&title_color=64ffda&text_color=8892b0&langs_count=8" width="35%"/>
+| 🗣️ Language | 📊 Level | 🔥 |
+|:---:|:---:|:---:|
+| Kabyle 🌟 | Native | ██████████ |
+| French 🇫🇷 | Fluent | ██████████ |
+| English 🇬🇧 | Fluent | ██████████ |
+| Arabic 🌍 | Fluent | ██████████ |
+| Japanese 🇯🇵 | Intermediate | █████░░░░░ |
 
 </div>
 
 ---
 
-## 🚀 Projets en vedette
+## ⚡ Fun Facts
 
-<div align="center">
-
-<a href="https://github.com/Badis-Boudjaoui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badis-Boudjaoui&repo=MNIST-DeepLearning&theme=tokyonight&bg_color=0a192f&border_color=64ffda&title_color=64ffda&text_color=8892b0&icon_color=64ffda" width="47%"/>
-</a>
-<a href="https://github.com/Badis-Boudjaoui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badis-Boudjaoui&repo=Object-Detection-Sensor&theme=tokyonight&bg_color=0a192f&border_color=64ffda&title_color=64ffda&text_color=8892b0&icon_color=64ffda" width="47%"/>
-</a>
-
-> 💡 *Remplace les noms des repos par les vrais noms de tes projets GitHub.*
-
-</div>
+```
+🏋️  Gym in the morning      →   💻 Engineering by day      →   🌌 Building at night
+📚  Passionate reader       →   🥾 Mountain hiker           →   🎬 Video editor
+✈️  Curious traveler        →   🌏 Culture explorer         →   🤖 AI Enthusiast
+```
 
 ---
 
 <div align="center">
 
-## 📉 Graphe d'activité
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=130&section=footer" />
 
-[![Badis activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Badis-Boudjaoui&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&border_color=64ffda)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### *"Build smart. Automate everything. Learn endlessly."*
 
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Mes contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badis-Boudjaoui/Badis-Boudjaoui/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badis-Boudjaoui/Badis-Boudjaoui/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Badis-Boudjaoui/Badis-Boudjaoui/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Me retrouver
-
-[![GitHub](https://img.shields.io/badge/GitHub-Badis--Boudjaoui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badis-Boudjaoui)
-[![Email](https://img.shields.io/badge/Outlook-badisboudjaoui-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:badisboudjaoui@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badis_Boudjaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badis-boudjaoui)
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
-
-<br/><br/>
-
-> *"L'intelligence artificielle au service de l'humain — c'est ma mission."* 🧠
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0a192f,100:0d1117&height=120&section=footer" />
+![Visitors](https://komarev.com/ghpvc/?username=Badis-Boudjaoui&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Badis-Boudjaoui?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/Badis-Boudjaoui)
 
 </div>
